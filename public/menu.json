@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled Chicken Bowl",
+    "price": 180,
+    "rating": 4.7,
+    "description": "High-protein grilled chicken with quinoa and greens."
+  },
+  {
+    "id": 2,
+    "name": "Protein Smoothie",
+    "price": 120,
+    "rating": 4.6,
+    "description": "Banana, oats, whey protein, and almond milk blend."
+  },
+  {
+    "id": 3,
+    "name": "Tofu Power Wrap",
+    "price": 150,
+    "rating": 4.4,
+    "description": "Tofu, veggies, and hummus in a multigrain wrap."
+  },
+  {
+    "id": 4,
+    "name": "Avocado Salad",
+    "price": 130,
+    "rating": 4.5,
+    "description": "Fresh avocado, kale, seeds and vinaigrette."
+  },
+  {
+    "id": 5,
+    "name": "Paneer Protein Bowl",
+    "price": 170,
+    "rating": 4.6,
+    "description": "Cottage cheese, chickpeas and spicy dressing."
+  },
+  {
+    "id": 6,
+    "name": "Peanut Butter Energy Bites",
+    "price": 90,
+    "rating": 4.3,
+    "description": "No-bake oats, peanut butter and honey balls."
+  }
+]
